@@ -147,3 +147,7 @@ After registering the app against a real XM Cloud sandbox (see
    the copied item's field values.
 5. Confirm the real field's GraphQL/Layout Service behavior is unaffected (query it via
    Experience Edge or your site's existing rendering) — its Type should be untouched.
+
+## License
+
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
