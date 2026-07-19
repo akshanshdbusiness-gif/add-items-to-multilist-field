@@ -34,9 +34,6 @@ starting point — and have it appear pre-selected in the field, without leaving
   [`src/app/add-item/page.tsx`](src/app/add-item/page.tsx) and the doc comment on
   `getCurrentPageContext` in [`src/lib/marketplace/client.ts`](src/lib/marketplace/client.ts).
 
-See [`../../.claude/plans` conversation history] or the code comments in
-`src/app/add-item/page.tsx` for the full rationale; the short version is in
-`src/lib/sitecore/*` and `src/lib/marketplace/client.ts`.
 
 ## Business rules
 
